@@ -1,0 +1,15 @@
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\bin\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.exe
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\bin\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.deps.json
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\bin\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.runtimeconfig.json
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\bin\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.dll
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\bin\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.pdb
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.csproj.AssemblyReference.cache
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.AssemblyInfoInputs.cache
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.AssemblyInfo.cs
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.csproj.CoreCompileInputs.cache
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.dll
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\refint\Actividad Asincrona Semana 5 Bucle For.dll
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.pdb
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\Actividad Asincrona Semana 5 Bucle For.genruntimeconfig.cache
+C:\Users\Yeison Mauricio\Desktop\Actividad Asincrona Semana 5 Bucle For\Actividad Asincrona Semana 5 Bucle For\obj\Debug\net6.0\ref\Actividad Asincrona Semana 5 Bucle For.dll
